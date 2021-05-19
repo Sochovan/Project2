@@ -13,7 +13,6 @@ html {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  padding: 115px 132px;
 }
 
 .top-section {
@@ -48,7 +47,6 @@ html {
 .price-card-popular {
   width: 25px;
   height: 147px;
-  color: #fff;
   background-color: #DC3F45;
   display: flex;
   justify-content: center;
@@ -62,6 +60,10 @@ html {
 
 .popular {
   transform: rotate(90deg);
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 17px;
+  color: #fff;
 }
 
 .price-card__title {
