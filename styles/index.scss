@@ -124,11 +124,11 @@ html {
     margin: 0;
     padding: 0;
     width: 100%;
+    list-style-type: none;
 }
 
 .list-item {
     display: flex;
-    list-style-type: none;
     line-height: 50px;
     align-items: flex-start;
 }
