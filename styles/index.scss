@@ -131,7 +131,7 @@ html {
 
 .list-item {
     display: flex;
-    line-height: 50px;
+    height: 50px;
     width: 100%;
     align-items: flex-start;
     margin-right: auto;
@@ -150,6 +150,7 @@ html {
     color: #fff;
     font-weight: 300;
     font-size: 15px;
+    padding: 0;
 }
 
 .order-button {
