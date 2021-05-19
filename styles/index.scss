@@ -5,22 +5,16 @@
 
 html {
     font-family: 'Montserrat', sans-serif;
-    background-color: #141b1c
-}
-
-.page {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    padding: 115px 132px;
 }
 
 .top-section {
-    min-width: 1176px;
-    min-height: 770px;
+    background-color: #141b1c;
+    // min-width: 1176px;
+    // min-height: 770px;
+    height: 100%;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 .price-card {
@@ -133,7 +127,7 @@ html {
     height: 50px;
     width: 100%;
     align-items: flex-start;
-    margin-right: auto;
+    // margin-right: auto;
     align-items: center;
 }
 
@@ -142,15 +136,16 @@ html {
 }
 
 .list-item__image {
-    margin: 0;
-    margin: 18px 22px 19px 22px;
+    // margin: 0;
+    padding: 18px 22px 19px 22px;
 }
 
 .list-item__text {
     color: #fff;
     font-weight: 300;
     font-size: 15px;
-    padding: 0;
+    line-height: 18px;
+    padding: 16px 21px 16px 0;
 }
 
 .price-card__order-btn {
