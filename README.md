@@ -1,7 +1,7 @@
 # Layout Sample Project
 
 ### https://sochovan.github.io/Project2/
-
+Layout with product price.
 
 ### The tech stack is:
 
