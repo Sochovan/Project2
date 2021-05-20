@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,300&display=swap');
 @import 'price-card';
+@import 'variables';
 * {
     box-sizing: border-box;
 }
@@ -9,7 +10,7 @@ html {
 }
 
 .top-section {
-    background-color: #141b1c;
+    background-color: $background-color;
     height: 100vh;
     display: flex;
     justify-content: center;
