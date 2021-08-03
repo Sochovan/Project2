@@ -1,6 +1,6 @@
 # Layout Sample Project
 
-### https://sochovan.github.io/Project2/
+### https://sochovan.github.io/price-cards-project/
 Layout with product price.
 
 ### The tech stack is:
